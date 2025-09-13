@@ -10,12 +10,12 @@ setup(
         "pandas",
         "scikit-learn"
     ],
-    author="Your Name",
-    author_email="your.email@example.com",
+    author="Sanchit",
+    author_email="sanchitgg2005@gmail.com",
     description="A feature engineering helper library",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
-    url="https://github.com/yourusername/Data_Mat",
+    url="https://github.com/Sanchitgg/Data_Mat",
     classifiers=[
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",
