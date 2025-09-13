@@ -1,8 +1,8 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="Data_Mat",
-    version="0.1.0",
+    name="featenf",
+    version="0.2.0",
     packages=find_packages(where="src"),
     package_dir={"": "src"},
     install_requires=[
@@ -10,7 +10,7 @@ setup(
         "pandas",
         "scikit-learn"
     ],
-    author="Sanchit",
+    author="Sanchitgg",
     author_email="sanchitgg2005@gmail.com",
     description="A feature engineering helper library",
     long_description=open("README.md").read(),
